@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager (Kotlin)/task/out/
+/Cinema Room Manager (Kotlin)/task/out/production/classes/
+/Topics/For loop and lists/Individual taxes/out/
+/Topics/For loop and lists/Individual taxes/out/production/classes/
