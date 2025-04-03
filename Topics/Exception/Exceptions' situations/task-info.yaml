@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Converting an unsuitable string into an integer number
+  - text: You forgot to close the parentheses
+  - text: Impossible arithmetic operation
+  - text: You tried to change the val variable
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/49373#comment
+status: Solved
+record: -1
+local_check: false
