@@ -6,6 +6,7 @@ fun main() {
         inputList.add(stringsList)
     }
     // Do not change lines above
-    // Write your code here
+
+    println(inputList[2].joinToString(", "))
 
 }
