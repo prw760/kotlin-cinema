@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Cinema Room Manager (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager (Kotlin)/task/out" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix the program" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Statements" />
@@ -18,8 +19,10 @@
             <option value="$PROJECT_DIR$/Topics/Exception/Cause an exception" />
             <option value="$PROJECT_DIR$/Topics/Exception/Exceptions' situations" />
             <option value="$PROJECT_DIR$/Topics/Exception/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Difference between two doubles" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Find X" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Liquid pressure" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/What is the result" />
             <option value="$PROJECT_DIR$/Topics/For loop and lists/Individual taxes" />
@@ -38,10 +41,18 @@
             <option value="$PROJECT_DIR$/Topics/List/Number of occurrences" />
             <option value="$PROJECT_DIR$/Topics/List/Sum of numbers" />
             <option value="$PROJECT_DIR$/Topics/List/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Map/Application" />
+            <option value="$PROJECT_DIR$/Topics/Map/Comprehension" />
+            <option value="$PROJECT_DIR$/Topics/Map/Map creation" />
+            <option value="$PROJECT_DIR$/Topics/Map/Theory" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Correct statements" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Kotlin lists" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Shapeshifter" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/About Mutable Map" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Help the robot" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/The output of two maps" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Theory" />
             <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle string exception" />
             <option value="$PROJECT_DIR$/Topics/Taming exceptions/String to integer conversion with error handling" />
             <option value="$PROJECT_DIR$/Topics/Taming exceptions/The purpose of exceptions" />

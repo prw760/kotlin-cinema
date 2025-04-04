@@ -9,3 +9,5 @@ content:
   - Taming exceptions
   - The try-catch-finally statement
   - Floating-point types
+  - Map
+  - Mutable Map
