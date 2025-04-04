@@ -5,3 +5,6 @@ content:
   - Multi-dimensional list
   - Errors in programs
   - Exception
+  - Hierarchy of exceptions
+  - Taming exceptions
+  - The try-catch-finally statement

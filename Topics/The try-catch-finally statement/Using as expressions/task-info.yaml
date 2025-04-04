@@ -1,0 +1,14 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "No, this is not allowed in Kotlin."
+  - text: "Yes, but only with the block <code>finally</code>."
+  - text: Yes! It is an idiomatic way of working with exceptions in Kotlin.
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16211#comment
+status: Solved
+record: -1
+local_check: false

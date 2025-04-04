@@ -1,0 +1,9 @@
+content:
+  - Theory
+  - Catching and handling list index errors
+  - Linking cause and consequence
+  - Handling division by zero exception in a program
+  - Errors and exceptions
+  - Match descriptions
+  - RuntimeException
+  - IndexOutOfBoundsException
