@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: removeAll()
+  - text: remove()
+  - text: makeEmpty()
+  - text: clear()
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11900#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 04 Apr 2025 04:08:00 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: Remove it all!
+local_check: false

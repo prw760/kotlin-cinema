@@ -11,3 +11,8 @@ content:
   - Floating-point types
   - Map
   - Mutable Map
+  - Random
+  - Mutable List
+  - Set
+  - Mutable Set
+  - Property accessors
